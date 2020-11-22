@@ -1,6 +1,6 @@
 import React from "react";
 import Portfolio from "../Portfolio";
-import projects from "";
+import projects from "../../assets/projects.json";
 
 function Blog() {
     return (

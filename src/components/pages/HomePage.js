@@ -1,5 +1,5 @@
 import React from "react";
-import HomePic from ""
+// import HomePic from ""
 import Home from "../Home"
 
 function HomePage() {

@@ -1,5 +1,5 @@
 import React from "react";
-import HomePic from ""
+// import HomePic from ""
 
 function Home() {
     return (
@@ -7,7 +7,7 @@ function Home() {
             <div className="col-4">
                 <div className="card card-home">
                     <div className="card-body">
-                        <img src={HomePic} alt="home-profile-photo" className="home-pic mb-3"></img>
+                        {/* <img src={HomePic} alt="home-profile-photo" className="home-pic mb-3"></img> */}
                         <h5 className="card-title text-center">Full Stack Web Developer</h5>
                         <p className="card-text text-center">Dedicated and passionate professional.</p>
                         <a href="www.linkedin.com/in/timothy-sanders-540b6656" className="ml-5">LinkedIn</a>
